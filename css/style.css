@@ -670,6 +670,7 @@ button{
 .portfolio-item-thumbnail img{
     width: 100%;
     border-radius: 10px;
+    height: 185px;
 }
 .portfolio-item h3{
     font-size: 20px;
